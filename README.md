@@ -112,23 +112,35 @@ The game will end if the player can’t solve the situation within the time limi
 
 ### 3.1 Game Installation
 
-1. For those who have already installed Unreal Engine, you can skip this step and proceed to the next steps. Otherwise, you can download it from [Unreal Engine](https://www.unrealengine.com/en-US/download). The instructions are included on the website.
-
-2. Download the zip folder from the link [here](https://drive.google.com/file/d/1pz5znQ_JgfaUpsTZk9x-7w4vAMhJewjZ/view?usp=sharing) and extract it.
-
-3. Click on Unreal Engine from the left navigation bar of your Epic Games Launcher.
-
-4. Choose the Library from the top navigation bar of the Epic Games Launcher.
-
-5. If you have version 4.27.2, you can click on the “Launch” button. Otherwise, you need to download that version by clicking the add button beside the ENGINE VERSIONS label. After downloading, proceed to “Launch.”
-
-6. After you click on “Launch,” it may take some time to load the project. You will see two sections: Recent Projects and New Project Categories. At the bottom right corner of the Recent Projects section, click on the "More" button.
-
-7. Click on the "Browse" button at the bottom right, then choose the folder that you unzipped.
-
-8. Click on the file with the .uproject extension, which is the Unreal Engine Project File, and open it.
-
-9. After clicking on it, the project file will open. Then, you can click on the "Run" button to start playing the game. It will begin from the title scene.
+<ol>
+  <li>
+    <strong>For those who have already installed Unreal Engine, you can skip this step and proceed to the next steps. Otherwise, you can download it from <a href="https://www.unrealengine.com/en-US/download">Unreal Engine</a>. The instructions are included on the website.</strong>
+  </li>
+  <li>
+    <strong>Download the zip folder from the link <a href="https://drive.google.com/file/d/1pz5znQ_JgfaUpsTZk9x-7w4vAMhJewjZ/view?usp=sharing">here</a> and extract it.</strong>
+  </li>
+  <li>
+    <strong>Click on Unreal Engine from the left navigation bar of your Epic Games Launcher.</strong>
+  </li>
+  <li>
+    <strong>Choose the Library from the top navigation bar of the Epic Games Launcher.</strong>
+  </li>
+  <li>
+    <strong>If you have version 4.27.2, you can click on the “Launch” button. Otherwise, you need to download that version by clicking the add button beside the ENGINE VERSIONS label. After downloading, proceed to “Launch.”</strong>
+  </li>
+  <li>
+    <strong>After you click on “Launch,” it may take some time to load the project. You will see two sections: Recent Projects and New Project Categories. At the bottom right corner of the Recent Projects section, click on the "More" button.</strong>
+  </li>
+  <li>
+    <strong>Click on the "Browse" button at the bottom right, then choose the folder that you unzipped.</strong>
+  </li>
+  <li>
+    <strong>Click on the file with the .uproject extension, which is the Unreal Engine Project File, and open it.</strong>
+  </li>
+  <li>
+    <strong>After clicking on it, the project file will open. Then, you can click on the "Run" button to start playing the game. It will begin from the title scene.</strong>
+  </li>
+</ol>
 
 ### 3.2 Gameplay
 
