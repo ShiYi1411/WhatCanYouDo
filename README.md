@@ -185,9 +185,9 @@ When players drop an item and then pick it up again, the item will become smalle
 
 ## 5.0 Link to Video Demo
 
-[Video Demo Link](https://drive.google.com/file/d/1IUBWiY-OPXtvpeZyxGG2qlXrH0jCZNsK/view?usp=drive_link)
+[Video Demo Link](https://youtu.be/JNngsGe96YY)
 
-[Report Link](https://drive.google.com/file/d/1IUBWiY-OPXtvpeZyxGG2qlXrH0jCZNsK/view?usp=drive_link)
+[Report Link](https://drive.google.com/file/d/1foKO-qH1WRRwElguv2gAS4TOBfWQK4zn/view?usp=sharing)
 
 [Project Link](https://drive.google.com/file/d/1pz5znQ_JgfaUpsTZk9x-7w4vAMhJewjZ/view?usp=sharing)
 
