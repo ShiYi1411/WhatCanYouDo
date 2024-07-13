@@ -179,13 +179,17 @@ When players drop an item and then pick it up again, the item will become smalle
 ![GameWin!](GitHubImages/8.png)
 
 ### 4.9 Game Over Scene
-![GameOver!](GitHubImages/.png)
+![GameOver!](GitHubImages/9.png)
 
 ---
 
 ## 5.0 Link to Video Demo
 
 [Video Demo Link](https://drive.google.com/file/d/1IUBWiY-OPXtvpeZyxGG2qlXrH0jCZNsK/view?usp=drive_link)
+
+[Report Link](https://drive.google.com/file/d/1IUBWiY-OPXtvpeZyxGG2qlXrH0jCZNsK/view?usp=drive_link)
+
+[Project Link](https://drive.google.com/file/d/1IUBWiY-OPXtvpeZyxGG2qlXrH0jCZNsK/view?usp=drive_link)
 
 ---
 
