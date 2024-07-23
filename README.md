@@ -101,10 +101,10 @@ The game will end if the player can’t solve the situation within the time limi
 | Menu - Main Menu, options (music on/off, volume), pause, and end menu. | Ong Shi Yi |
 | Countdown timer | Ong Shi Yi |
 | Player interaction to take items from the scene | Ong Shi Yi |
-| Sound effects | Ong Shi Yi |
-| Game scene design | Ong Shi Yi |
 | Particle effects for burning | Tan Wui Hong |
 | Player interaction to use items to solve situations | Tan Wui Hong |
+| Sound effects | Ong Shi Yi & Tan Wui Hong |
+| Game scene design | Ong Shi Yi & Tan Wui Hong  |
 
 ---
 
